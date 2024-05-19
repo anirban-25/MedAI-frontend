@@ -26,7 +26,7 @@ const FooterComp = () => {
           <div className="flex justify-center">
             <div className="p-2 md:p-5 text-slate-900 md:text-base text-sm">
               You can contact us through our email analyzeReports@gmail.com or through
-              our phone number +70 91236912354
+              our phone number +70 9236912354
             </div>
           </div>
         </div>
